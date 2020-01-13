@@ -1,4 +1,3 @@
-import sys
 I = []
 class Selection:
   A = []
